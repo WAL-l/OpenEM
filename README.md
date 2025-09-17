@@ -66,7 +66,7 @@ Checkpoint can be downloaded from: https://huggingface.co/datasets/ws11/OpenEM.
 ```bash
 python test.py
 ```
-Note that you should specify 'checkpoint' and 'noise_data' in the 'test'.
+Note that you should specify 'checkpoint' and 'model_data' in the 'test'.
 
 
 
