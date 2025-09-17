@@ -1,6 +1,8 @@
 # OpenEM
 OpenEM: Large-scale multi-structural 3D datasets for electromagnetic methods.
 
+<img src="./img/fig03.jpg">
+
 Dataset can be downloaded from [here](https://huggingface.co/datasets/ws11/OpenEM)
 
 # Forward 
